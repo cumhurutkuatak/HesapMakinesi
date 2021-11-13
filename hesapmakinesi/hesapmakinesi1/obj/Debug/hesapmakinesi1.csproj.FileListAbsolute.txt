@@ -1,0 +1,76 @@
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojAssemblyReference.cache
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.cache
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.CoreCompileInputs.cache
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+D:\hesap makinesi c# yeni1\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\Ali\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.Cache
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojResolveAssemblyReference.cache
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\msmarketx\Desktop\hesapmakinesi1\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.Cache
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojResolveAssemblyReference.cache
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\msmarketx\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.Cache
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojAssemblyReference.cache
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.cache
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\ataku\Desktop\hesmak2\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojResolveAssemblyReference.cache
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\msmarketx\Desktop\hesmak2duzenlenmis\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.Cache
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csprojAssemblyReference.cache
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.cache
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\ataku\Desktop\hesmak\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe.config
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\bin\Debug\hesapmakinesi1.exe
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\bin\Debug\hesapmakinesi1.pdb
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.AssemblyReference.cache
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Form1.resources
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.Properties.Resources.resources
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.GenerateResource.cache
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.csproj.CoreCompileInputs.cache
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.exe
+C:\Users\90552\Desktop\hesapmakinesicumhurutkuatak\hesapmakinesi1\obj\Debug\hesapmakinesi1.pdb
